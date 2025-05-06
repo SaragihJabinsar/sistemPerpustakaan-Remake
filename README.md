@@ -9,7 +9,11 @@
 
 Klik gambar di bawah untuk menonton demo lengkap aplikasi ini di YouTube:
 
-[![Tonton Demo Sistem Perpustakaan](https://img.youtube.com/vi/hxBPT5g6Upw/0.jpg)](https://www.youtube.com/watch?v=hxBPT5g6Upw)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=hxBPT5g6Upw">
+    <img src="https://img.youtube.com/vi/hxBPT5g6Upw/0.jpg" alt="Tonton Demo Sistem Perpustakaan" width="100%">
+  </a>
+</p>
 
 ---
 
