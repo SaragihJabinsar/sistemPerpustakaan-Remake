@@ -7,9 +7,9 @@
 
 ## 🎬 Demo Aplikasi
 
-> Gantilah link di bawah ini dengan link video YouTube kamu agar tampil otomatis di GitHub.
+Klik gambar di bawah untuk menonton demo lengkap aplikasi ini di YouTube:
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Tonton Demo Sistem Perpustakaan](https://img.youtube.com/vi/hxBPT5g6Upw/0.jpg)](https://www.youtube.com/watch?v=hxBPT5g6Upw)
 
 ---
 
