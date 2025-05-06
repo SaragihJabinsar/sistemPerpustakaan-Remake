@@ -47,10 +47,14 @@ Klik gambar di bawah untuk menonton demo lengkap aplikasi ini di YouTube:
 
 ### 🔸 Tabel `tbbuku`
 
-| Kolom       | Tipe   | Keterangan               |
-|-------------|--------|--------------------------|
-| idBuku      | string | Primary key (ex: B001)   |
-| judulBuku   | string | Judul buku               |
+| Kolom       | Tipe        | Keterangan                          |
+|-------------|-------------|-------------------------------------|
+| idBuku      | varchar(5)  | Primary key (ex: B001)              |
+| judulBuku   | varchar(50) | Judul buku                          |
+| kategori    | varchar(50) | Kategori buku (misalnya: Fiksi)     |
+| pengarang   | varchar(40) | Nama pengarang buku                 |
+| penerbit    | varchar(40) | Nama penerbit buku                  |
+| status      | varchar(10) | Status buku (Tersedia / Dipinjam)   |
 
 ---
 
